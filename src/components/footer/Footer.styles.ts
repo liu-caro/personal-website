@@ -4,7 +4,8 @@ const footerUseStyles = makeStyles(() =>
   createStyles({
     container: {
         display: "flex",
-        justifyContent: 'center'
+        justifyContent: 'center',
+        margin: "2rem"
     },
     icons: {
         marginRight: '0.5rem'
